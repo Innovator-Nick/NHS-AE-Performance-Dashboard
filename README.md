@@ -3,7 +3,7 @@ Interactive Power BI dashboard analyzing NHS A&E department performance against 
 
 
 Project Overview
-This dashboard provides comprehensive analysis of NHS Accident & Emergency (A&E) performance across **188 NHS Trusts** in England, processing **12.9 million patient attendances** over a 3-month period (January - March 2025).
+This dashboard provides comprehensive analysis of NHS Accident & Emergency (A&E) performance across **188 NHS Trusts** in England, processing *12.9 million patient attendances* over a 3-month period (January - March 2025).
 
 Built to demonstrate:
 -Business Intelligence and data visualization skills
