@@ -13,13 +13,13 @@ Built to demonstrate:
 
 Key Findings:
 1)Performance Crisis
--National average: 73.2%** against 95% NHS target
+-National average: 73.2% against 95% NHS target
 -3.4 million patients** experienced waits exceeding 4 hours
--Gap to target: 21.8 percentage points** - indicating significant capacity challenges
+-Gap to target: 21.8 percentage points - indicating significant capacity challenges
 -Only 27% of trusts currently meeting the standard
 
 2)Positive Trends
--2 percentage point improvement** from January (72.4%) to March (74.4%)
+-2 percentage point improvement from January (72.4%) to March (74.4%)
 -Suggests recovery from winter pressures
 -Month-over-month momentum building
 
