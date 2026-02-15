@@ -1,9 +1,11 @@
 NHS-AE-Performance-Dashboard
+
 Interactive Power BI dashboard analyzing NHS A&E department performance against the 4-hour waiting time standard across England. Built with real NHS England data covering 12.9M attendances.
 
 
 Project Overview
-This dashboard provides comprehensive analysis of NHS Accident & Emergency (A&E) performance across **188 NHS Trusts** in England, processing *12.9 million patient attendances* over a 3-month period (January - March 2025).
+
+This dashboard provides comprehensive analysis of NHS Accident & Emergency (A&E) performance across 188 NHS Trusts in England, processing 12.9 million patient attendances over a 3-month period (January - March 2025).
 
 Built to demonstrate:
 -Business Intelligence and data visualization skills
@@ -11,7 +13,8 @@ Built to demonstrate:
 -Power BI proficiency (DAX, visualizations, interactivity)
 -Data storytelling for stakeholder decision-making
 
-Key Findings:
+Key Findings
+
 1)Performance Crisis
 -National average: 73.2% against 95% NHS target
 -3.4 million patients** experienced waits exceeding 4 hours
@@ -30,19 +33,18 @@ Key Findings:
 
 Dashboard Screenshots
 Full Dashboard View-(NHS_Dashboard_Full.png)
-*Interactive overview showing national KPIs, performance trends, regional breakdowns, and trust-level analysis
+Interactive overview showing national KPIs, performance trends, regional breakdowns, and trust-level analysis
 
 Key Performance Indicators-(NHS_Dashboard_KPIs.png)
-*Real-time metrics: 12.9M total attendances, 73.2% performance, 3.4M breaches over 3 months
+Real-time metrics: 12.9M total attendances, 73.2% performance, 3.4M breaches over 3 months
 
 Performance Trend Analysis-(NHS_Dashboard_Trend.png)
 *Month-over-month tracking showing 2pp improvement from January to March 2025
 
 Regional Filtering (Example: London)-(NHS_Dashboard_London.png)
-*Interactive filtering by NHS Region - demonstrates dashboard interactivity and drill-down capabilities
+Interactive filtering by NHS Region - demonstrates dashboard interactivity and drill-down capabilities
 
 Technical Implementation
-Tools & Technologies
 -Power BI Desktop - Dashboard development and visualization
 -DAX (Data Analysis Expressions) - Custom measures and KPIs
 -Power Query (M) - Data transformation and ETL
@@ -58,14 +60,14 @@ Data Source
 
 Official Source: [NHS England A&E Attendances and Emergency Admissions Statistics](https://www.england.nhs.uk/statistics/statistical-work-areas/ae-waiting-times-and-activity/)
 
-*Coverage:
+Coverage:
 -Time Period: January - March 2025
 -Trusts:188 NHS Trusts across England
 -Attendances: 12.9 million A&E visits
 -Regions:8 NHS England regions
 -Granularity:Monthly aggregation
 
-*Data License: Contains public sector information licensed under the Open Government Licence v3.0
+Data License: Contains public sector information licensed under the Open Government Licence v3.0
 
 Skills Demonstrated:
 
