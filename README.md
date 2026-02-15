@@ -8,53 +8,62 @@ Project Overview
 This dashboard provides comprehensive analysis of NHS Accident & Emergency (A&E) performance across 188 NHS Trusts in England, processing 12.9 million patient attendances over a 3-month period (January - March 2025).
 
 Built to demonstrate:
--Business Intelligence and data visualization skills
--Healthcare analytics and domain knowledge  
--Power BI proficiency (DAX, visualizations, interactivity)
--Data storytelling for stakeholder decision-making
+- Business Intelligence and data visualization skills
+- Healthcare analytics and domain knowledge  
+- Power BI proficiency (DAX, visualizations, interactivity)
+- Data storytelling for stakeholder decision-making
 
 Key Findings
 
 1)Performance Crisis
--National average: 73.2% against 95% NHS target
--3.4 million patients** experienced waits exceeding 4 hours
--Gap to target: 21.8 percentage points - indicating significant capacity challenges
--Only 27% of trusts currently meeting the standard
+
+- National average: 73.2% against 95% NHS target
+- 3.4 million patients experienced waits exceeding 4 hours
+- Gap to target: 21.8 percentage points indicating significant capacity challenges
+- Only 27% of trusts currently meeting the standard
 
 2)Positive Trends
--2 percentage point improvement from January (72.4%) to March (74.4%)
--Suggests recovery from winter pressures
--Month-over-month momentum building
+
+- 2 percentage point improvement from January (72.4%) to March (74.4%)
+- Suggests recovery from winter pressures
+- Month-over-month momentum building
 
 3)Regional Disparities
--Up to 10 percentage point variation between best and worst performing regions
--Highlights opportunities for best practice sharing
--Enables targeted resource allocation
+
+- Up to 10 percentage point variation between best and worst performing regions
+- Highlights opportunities for best practice sharing
+- Enables targeted resource allocation
 
 Dashboard Screenshots
+
 Full Dashboard View-(NHS_Dashboard_Full.png)
-Interactive overview showing national KPIs, performance trends, regional breakdowns, and trust-level analysis
+
+- Interactive overview showing national KPIs, performance trends, regional breakdowns, and trust-level analysis
 
 Key Performance Indicators-(NHS_Dashboard_KPIs.png)
-Real-time metrics: 12.9M total attendances, 73.2% performance, 3.4M breaches over 3 months
+
+- Real time metrics 12.9M total attendances, 73.2% performance, 3.4M breaches over 3 months
 
 Performance Trend Analysis-(NHS_Dashboard_Trend.png)
-*Month-over-month tracking showing 2pp improvement from January to March 2025
+
+- Month over month tracking showing 2pp improvement from January to March 2025
 
 Regional Filtering (Example: London)-(NHS_Dashboard_London.png)
-Interactive filtering by NHS Region - demonstrates dashboard interactivity and drill-down capabilities
+
+- Interactive filtering by NHS Region demonstrates dashboard interactivity and drill-down capabilities
 
 Technical Implementation
--Power BI Desktop - Dashboard development and visualization
--DAX (Data Analysis Expressions) - Custom measures and KPIs
--Power Query (M) - Data transformation and ETL
--Python - Data cleaning and preprocessing
+- Power BI Desktop - Dashboard development and visualization
+- DAX (Data Analysis Expressions) - Custom measures and KPIs
+- Power Query (M) - Data transformation and ETL
+- Python - Data cleaning and preprocessing
 
 Data Pipeline
-NHS England CSV (3 months)
--Python ETL (clean, validate, enrich)
--Power BI (DAX measures, visualizations)
--Interactive Dashboard
+
+- NHS England CSV (3 months)
+- Python ETL (clean, validate, enrich)
+- Power BI (DAX measures, visualizations)
+- Interactive Dashboard
 
 Data Source
 
